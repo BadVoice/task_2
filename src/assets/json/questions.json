@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "data": {
+    "questions": [
+      {
+        "id": 1,
+        "condition": "Choose the right answer",
+        "text": "Which shape shows thirds?",
+        "image": "/images/img.jpg",
+        "correct_answer": "A",
+        "answers": ["A", "B", "C"]
+      }
+    ]
+  }
+}
